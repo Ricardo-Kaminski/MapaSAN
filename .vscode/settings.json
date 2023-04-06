@@ -1,0 +1,8 @@
+{
+    "notebook.markup.fontSize": 0,
+    "notebook.output.wordWrap": true,
+    "editor.minimap.maxColumn": 80,
+    "notebook.output.scrolling": true,
+    "git.ignoreLimitWarning": true,
+    "python.formatting.provider": "black"
+}
